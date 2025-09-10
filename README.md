@@ -1,7 +1,7 @@
 # simple-STL
-自编C++STL库
+Simple C++ STL Library
 
-2025年9月3日：更新MyVector、添加MyList
+3 September 2025: Updated MyVector, added MyList
 
-2025年9月10日：添加MyDeque
+10 September 2025: Added MyDeque
 

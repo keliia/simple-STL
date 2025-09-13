@@ -5,3 +5,5 @@ Simple C++ STL Library
 
 10 September 2025: Added MyDeque
 
+13 September 2025: Added HashTable
+

@@ -7,3 +7,4 @@ Simple C++ STL Library
 
 13 September 2025: Added HashTable
 
+19 September 2025: Added RedBlackTree,it's too difficult

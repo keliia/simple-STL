@@ -9,4 +9,4 @@ Simple C++ STL Library
 
 19 September 2025: Added RedBlackTree,it's too difficult
 
-21 September 2025: Added MySet and MyUSet
+21 September 2025: Added MySet,MyMultiset and MyUSet,they are merely a simple reuse of the preceding content.

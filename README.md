@@ -15,6 +15,6 @@ Simple C++ STL Library
 
 23 September 2025: Added MyUMap
 
-24 September 2025: Added MyMultimap,MyStack
+24 September 2025: Added MyMultimap and MyStack
 
 27 September 2025: Added MyQueue and MyPriorityQueue,The finale,throw flowers!
